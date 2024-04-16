@@ -1,0 +1,113 @@
+{
+    "categories": {
+      "clothes": {
+        "c1": {
+          "name": "Dress",
+          "price": 948.0
+        },
+        "c2": {
+          "name": "Floral print with elegant design",
+          "price": 1299.0
+        },
+        "c3": {
+          "name": "Stylish dress for cocktail parties",
+          "price": 1499.0
+        },
+        "c4": {
+          "name": "Stylish dress for cocktail parties",
+          "price": 1499.0
+        }
+      },
+      "skincare": {
+        "s1": {
+          "name": "Cleanser + Moisturizer Combo",
+          "price": 1356.0
+        },
+        "s2": {
+          "name": "Sunscreen + Toner Combo",
+          "price": 1159.0
+        },
+        "s3": {
+          "name": "Serum + Eye Cream Combo",
+          "price": 1499.0
+        },
+        "s4": {
+          "name": "Exfoliator + Face Mask Combo",
+          "price": 1799.0
+        }
+      },
+      "kitchenware": {
+        "k1": {
+          "name": "Spatula Set",
+          "price": 1000.0
+        },
+        "k2": {
+          "name": "Pot",
+          "price": 1500.0
+        },
+        "k3": {
+          "name": "Whipping Cream Machine",
+          "price": 4969.0
+        },
+        "k4": {
+          "name": "Oven",
+          "price": 17998.0
+        }
+      },
+      "art": {
+        "a1": {
+          "name": "Pen Set",
+          "price": 356.0
+        },
+        "a2": {
+          "name": "Paint Brush Set",
+          "price": 359.0
+        },
+        "a3": {
+          "name": "Sketchbook",
+          "price": 499.0
+        },
+        "a4": {
+          "name": "Oil Paints",
+          "price": 599.0
+        }
+      },
+      "food": {
+        "f1": {
+          "name": "Veggies",
+          "price": 356.0
+        },
+        "f2": {
+          "name": "Organic Milk- 3L",
+          "price": 159.0
+        },
+        "f3": {
+          "name": "Bread-Basket",
+          "price": 499.0
+        },
+        "f4": {
+          "name": "Grocery-basket",
+          "price": 799.0
+        }
+      },
+      "toys": {
+        "t1": {
+          "name": "Puppy",
+          "price": 756.0
+        },
+        "t2": {
+          "name": "Alphabet Cube",
+          "price": 959.0
+        },
+        "t3": {
+          "name": "Magnetic Toy Train",
+          "price": 1499.0
+        },
+        "t4": {
+          "name": "Plush Rocking Horse",
+          "price": 1099.0
+        }
+      }
+    }
+  }
+  
